@@ -1,5 +1,5 @@
 # audify
-Click here to see the demo : [Audify]([https://prajwal1312.github.io/audify/])
+Click here to see the demo : [Audify](https://prajwal1312.github.io/audify/)
 
 
 The project is a web application that performs real-time speech-to-text conversion. Users can speak into their microphone, and the application will transcribe their speech into text. The interface is designed to be user-friendly, with a clean layout and intuitive controls.
